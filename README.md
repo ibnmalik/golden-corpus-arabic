@@ -1,8 +1,11 @@
-# golden-corpus-arabic
+# Golden Arabic Corpus
+This is a corpus for test Arabic stemmers.
 
-# To build the json format :
 
-run : `make build`
 
-you'll find it in build directory
+## build json format
+
+``` sh 
+      make build
+```
 
