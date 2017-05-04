@@ -3,8 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+*pyc
+*swp
+*~
 # C extensions
 *.so
+*.pyc
 
 # Distribution / packaging
 .Python
@@ -87,3 +91,5 @@ ENV/
 
 # Rope project settings
 .ropeproject
+# test
+test/
