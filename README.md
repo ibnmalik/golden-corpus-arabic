@@ -3,9 +3,9 @@ This is a corpus for test Arabic stemmers.
 
 
 
-## build json format
+## Build json format
 
-``` sh 
+```sh 
       make build
 ```
 
