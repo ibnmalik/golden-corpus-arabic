@@ -6,6 +6,6 @@ This is a corpus for test Arabic stemmers.
 ## Build json format
 
 ```sh 
-      make build
+     $ make build
 ```
 
