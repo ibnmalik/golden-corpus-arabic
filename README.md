@@ -1,9 +1,5 @@
 # Golden Arabic Corpus
-=====================
 This is a corpus for test Arabic stemmers.
-
-# Features
-==========
 
 ## Requirements
  * Python3.* 
